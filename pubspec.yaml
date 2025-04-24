@@ -1,0 +1,20 @@
+
+name: transporte_escolar
+description: Um app de transporte escolar com design infantil e alegre.
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  google_maps_flutter: ^2.5.0
+  firebase_core: ^2.25.0
+  firebase_auth: ^4.14.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
