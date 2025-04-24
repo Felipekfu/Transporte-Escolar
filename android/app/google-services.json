@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "614157252046",
+    "project_id": "meu-transporte-escolar-a7753",
+    "storage_bucket": "meu-transporte-escolar-a7753.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614157252046:android:ecaa09f7e55e2de563a79f",
+        "android_client_info": {
+          "package_name": "com.meuapp.transporte"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAidNq6OCd4ZFmVDH7ZXFQkymNXI8vmMss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614157252046:android:ff64e8a419b34ba163a79f",
+        "android_client_info": {
+          "package_name": "com.transporte_escolar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAidNq6OCd4ZFmVDH7ZXFQkymNXI8vmMss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
